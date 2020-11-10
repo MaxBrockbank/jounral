@@ -20,7 +20,7 @@ module.exports = {
       inject: 'body'
     })
   ],
-  modules: {
+  module: {
     rules: [
       {
         test: /\.css$/,
